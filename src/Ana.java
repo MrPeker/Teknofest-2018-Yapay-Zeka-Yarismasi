@@ -14,10 +14,6 @@ import zemberek.morphology.analysis.WordAnalysis;
 import zemberek.tokenization.TurkishSentenceExtractor;
 
 public class Ana  {
-
-
-
-
     static ArrayList<String> cevaplar=new ArrayList();
     private static String[] soruKelimeler;
 
